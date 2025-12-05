@@ -121,7 +121,3 @@ Full test report is available in the GitHub Wiki:
 ```bash
 docker system prune -a --volumes
 ```
-
-├── target/
-├── pom.xml
-└── config.properties
