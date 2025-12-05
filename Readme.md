@@ -65,7 +65,6 @@ java -jar target/undertow-app-1.0.0-SNAPSHOT.jar
 ```
 
 - Server starts at `http://localhost:8080`.
-- MapDB file created according to `config.properties` (usually alongside JAR).
 
 ### Docker (Optional)
 
@@ -121,3 +120,4 @@ Full test report is available in the GitHub Wiki:
 ```bash
 docker system prune -a --volumes
 ```
+
